@@ -1,0 +1,32 @@
+{
+    "expo": {
+        "name": "Swifty QR",
+        "description": "Easy QR code scanning and generation",
+        "slug": "swifty-qr",
+        "privacy": "unlisted",
+        "sdkVersion": "21.0.0",
+        "version": "1.0.0",
+        "orientation": "portrait",
+        "scheme": "qr",
+        "primaryColor": "#37474F",
+        "icon": "./assets/icons/app-icon.png",
+        "loading": {
+            "icon": "./assets/icons/loading-icon.png"
+        },
+        "packagerOpts": {
+            "assetExts": ["ttf"]
+        },
+        "ios": {
+            "supportsTablet": true,
+            "bundleIdentifier": "co.za.hackerdashery.swiftyqr"
+        },
+        "android": {
+            "package": "co.za.hackerdashery.swiftyqr",
+            "versionCode": 1
+        },
+        "splash": {
+            "resizeMode": "contain",
+            "backgroundColor": "#ECEFF1"
+        }
+    }
+}

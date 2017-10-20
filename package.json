@@ -1,0 +1,40 @@
+{
+    "name": "swifty-qr",
+    "version": "1.0.0",
+    "description": "Easy QR code scanning and generation",
+    "repository": {
+        "url": "Tiaan du Plessis/SwiftyQR",
+        "type": "git"
+    },
+    "author": "Tiaan du Plessis <tiaanduplessis@hotmail.com>",
+    "license": "MIT",
+    "main": "node_modules/expo/AppEntry.js",
+    "scripts": {
+        "build": "exp build:android",
+        "test": "jest",
+        "format": "prettier-standard '**/*.js'",
+        "start": "exp start"
+    },
+    "jest": {
+        "preset": "jest-expo"
+    },
+    "dependencies": {
+        "expo": "^21.0.0",
+        "nanokit-container": "^1.0.0",
+        "prop-types": "^15.6.0",
+        "react": "16.0.0-alpha.12",
+        "react-native": "https://github.com/expo/react-native/archive/sdk-21.0.2.tar.gz",
+        "react-native-log-level": "^1.0.1",
+        "react-native-material-textfield": "^0.10.0",
+        "react-native-modest-storage": "^1.0.0",
+        "react-native-qrcode-svg": "^5.0.3",
+        "react-native-tab-view": "^0.0.69",
+        "react-native-view-finder": "^1.0.1",
+        "valid-url": "^1.0.9"
+    },
+    "devDependencies": {
+        "exp": "^45.0.2",
+        "jest-expo": "^21.0.0",
+        "prettier-standard": "^7.0.1"
+    }
+}
