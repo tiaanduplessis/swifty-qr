@@ -24,8 +24,7 @@
         },
         "android": {
             "package": "co.za.hackerdashery.swiftyqr",
-            "versionCode": 1,
-            "barStyle": "dark-content"
+            "versionCode": 1
         }
     }
 }
