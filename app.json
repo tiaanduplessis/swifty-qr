@@ -4,7 +4,7 @@
         "description": "Easy QR code scanning and generation",
         "slug": "swifty-qr",
         "privacy": "unlisted",
-        "sdkVersion": "21.0.0",
+        "sdkVersion": "22.0.0",
         "version": "1.0.0",
         "orientation": "portrait",
         "scheme": "qr",
@@ -25,6 +25,7 @@
             "versionCode": 1
         },
         "splash": {
+            "image": "./assets/icons/loading.icon",
             "resizeMode": "contain",
             "backgroundColor": "#ECEFF1"
         }
