@@ -11,7 +11,9 @@
         "primaryColor": "#37474F",
         "icon": "./assets/icons/app-icon.png",
         "loading": {
-            "icon": "./assets/icons/loading-icon.png"
+            "icon": "./assets/icons/loading-icon.png",
+            "hideExponentText": true,
+            "backgroundColor": "#ECEFF1"
         },
         "packagerOpts": {
             "assetExts": ["ttf"]
@@ -22,12 +24,8 @@
         },
         "android": {
             "package": "co.za.hackerdashery.swiftyqr",
-            "versionCode": 1
-        },
-        "splash": {
-            "image": "./assets/icons/loading.icon",
-            "resizeMode": "contain",
-            "backgroundColor": "#ECEFF1"
+            "versionCode": 1,
+            "barStyle": "light-content"
         }
     }
 }
