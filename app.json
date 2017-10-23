@@ -3,7 +3,7 @@
         "name": "Swifty QR",
         "description": "Easy QR code scanning and generation",
         "slug": "swifty-qr",
-        "privacy": "unlisted",
+        "privacy": "public",
         "sdkVersion": "22.0.0",
         "version": "1.0.1",
         "orientation": "portrait",
