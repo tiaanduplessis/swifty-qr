@@ -24,7 +24,8 @@
         },
         "android": {
             "package": "co.za.hackerdashery.swiftyqr",
-            "versionCode": 1
+            "versionCode": 1,
+            "permissions": ["CAMERA", "MANAGE_DOCUMENTS", "READ_EXTERNAL_STORAGE", "READ_INTERNAL_STORAGE", "WRITE_EXTERNAL_STORAGE"]
         }
     }
 }
