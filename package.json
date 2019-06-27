@@ -34,10 +34,10 @@
         "valid-url": "^1.0.9"
     },
     "devDependencies": {
-        "exp": "^45.0.2",
-        "jest-expo": "^22.0.0",
-        "prettier-standard": "^7.0.1",
-        "solidarity": "^1.0.0",
-        "solidarity-react-native": "^1.0.0"
+        "exp": "45.0.2",
+        "jest-expo": "22.0.0",
+        "prettier-standard": "7.0.3",
+        "solidarity": "1.0.0",
+        "solidarity-react-native": "1.0.0"
     }
 }
