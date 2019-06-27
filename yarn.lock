@@ -5946,9 +5946,9 @@ react-native-material-textfield@^0.10.0:
   dependencies:
     prop-types "^15.5.9"
 
-react-native-modest-storage@^1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/react-native-modest-storage/-/react-native-modest-storage-1.0.0.tgz#25a35d9bc497321e460ed63ba97f2d4033d15f8a"
+react-native-modest-storage@^2.0.0:
+  version "2.1.0"
+  resolved "https://registry.yarnpkg.com/react-native-modest-storage/-/react-native-modest-storage-2.1.0.tgz#c2c096369b401b4047e460240e905c602789d838"
 
 react-native-qrcode-svg@^5.0.3:
   version "5.0.3"
