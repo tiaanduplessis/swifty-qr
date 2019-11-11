@@ -5940,9 +5940,9 @@ react-native-maps@0.17.0:
   version "0.17.0"
   resolved "https://registry.yarnpkg.com/react-native-maps/-/react-native-maps-0.17.0.tgz#d10fa94a049432c46b6ee03fe9db84c83da65c8b"
 
-react-native-material-textfield@^0.10.0:
-  version "0.10.0"
-  resolved "https://registry.yarnpkg.com/react-native-material-textfield/-/react-native-material-textfield-0.10.0.tgz#ee4bd429ea921bde1243d4bf13fb5106e33a0c99"
+react-native-material-textfield@^0.16.0:
+  version "0.16.1"
+  resolved "https://registry.yarnpkg.com/react-native-material-textfield/-/react-native-material-textfield-0.16.1.tgz#649e71344bb8a7225d5cea7c7b51cd38bcb2bbfc"
   dependencies:
     prop-types "^15.5.9"
 
