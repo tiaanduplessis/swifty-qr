@@ -5984,9 +5984,10 @@ react-native-vector-icons@4.1.1:
     prop-types "^15.5.8"
     yargs "^6.3.0"
 
-react-native-view-finder@^1.0.1:
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/react-native-view-finder/-/react-native-view-finder-1.0.1.tgz#669f693f2af292d4a7f7b73f82440f606117cbfa"
+react-native-view-finder@^1.2.0:
+  version "1.2.0"
+  resolved "https://registry.yarnpkg.com/react-native-view-finder/-/react-native-view-finder-1.2.0.tgz#a83ba60f3cc136e78e71abd73bb2c9d6d6a9ef04"
+  integrity sha512-odVDvaTOM5LrtqU0mcyALRU5IBOIZCXlvbulBu6QUldxZsVjqs8PhYZMVcziO9+IDoTZVhwXkSF06BqMC7NReA==
   dependencies:
     prop-types "^15.6.0"
 
