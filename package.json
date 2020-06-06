@@ -20,7 +20,7 @@
         "preset": "jest-expo"
     },
     "dependencies": {
-        "expo": "^22.0.0",
+        "expo": "^37.0.11",
         "nanokit-container": "^1.0.0",
         "prop-types": "^15.6.0",
         "react": "16.0.0-beta.5",
