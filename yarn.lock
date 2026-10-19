@@ -5932,9 +5932,10 @@ react-native-gesture-handler@1.0.0-alpha.28:
   dependencies:
     prop-types "^15.5.10"
 
-react-native-log-level@^1.0.1:
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/react-native-log-level/-/react-native-log-level-1.0.1.tgz#c42b6c4c03a7a5b57601e647a6c0268bb77f8376"
+react-native-log-level@^1.2.0:
+  version "1.2.0"
+  resolved "https://registry.yarnpkg.com/react-native-log-level/-/react-native-log-level-1.2.0.tgz#653c5a5f0b0cee5958d01f9d617b7c114a1cf65b"
+  integrity sha512-C7Ygi1OAvxqFD7kxmmiGkuyodRo34Lzz2WQV8aM5MBvrTUd0aV43OLSMqk+Sadb+s7pQXNDch89zPYJaY9LCdQ==
 
 react-native-maps@0.17.0:
   version "0.17.0"
