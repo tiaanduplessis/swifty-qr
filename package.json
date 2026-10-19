@@ -30,7 +30,7 @@
         "react-native-modest-storage": "^1.0.0",
         "react-native-qrcode-svg": "^5.0.3",
         "react-native-tab-view": "^0.0.69",
-        "react-native-view-finder": "^1.0.1",
+        "react-native-view-finder": "^1.2.0",
         "valid-url": "^1.0.9"
     },
     "devDependencies": {
