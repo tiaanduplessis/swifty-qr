@@ -2513,7 +2513,7 @@ exit-hook@^1.0.0:
   version "1.1.1"
   resolved "https://registry.yarnpkg.com/exit-hook/-/exit-hook-1.1.1.tgz#f05ca233b48c05d54fff07765df8507e95c02ff8"
 
-exp@^45.0.2:
+exp@45.0.2:
   version "45.0.2"
   resolved "https://registry.yarnpkg.com/exp/-/exp-45.0.2.tgz#11933f79c7da73d3fcceeabb70a055b4142596f8"
   dependencies:
@@ -3916,7 +3916,7 @@ jest-environment-node@^20.0.3:
     jest-mock "^20.0.3"
     jest-util "^20.0.3"
 
-jest-expo@^22.0.0:
+jest-expo@22.0.0:
   version "22.0.0"
   resolved "https://registry.yarnpkg.com/jest-expo/-/jest-expo-22.0.0.tgz#4a73c52ea5893de785720038267e8b78ac660d19"
   dependencies:
@@ -5451,7 +5451,7 @@ prettier-eslint@^8.1.1:
     typescript "^2.5.1"
     typescript-eslint-parser "^8.0.0"
 
-prettier-standard@^7.0.1:
+prettier-standard@7.0.3:
   version "7.0.3"
   resolved "https://registry.yarnpkg.com/prettier-standard/-/prettier-standard-7.0.3.tgz#c9ec97dc1d3270f9d567652ae9412166f91d8643"
   dependencies:
@@ -6772,11 +6772,11 @@ socks@^1.1.10, socks@~1.1.5:
     ip "^1.1.4"
     smart-buffer "^1.0.13"
 
-solidarity-react-native@^1.0.0:
+solidarity-react-native@1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/solidarity-react-native/-/solidarity-react-native-1.0.0.tgz#cfe1e8b2d7bdeaf0c8dc610f9f154c058a655e9b"
 
-solidarity@^1.0.0:
+solidarity@1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/solidarity/-/solidarity-1.0.0.tgz#d89f73af4f80e0a82ca902e0106b0d2f816e77f9"
   dependencies:
